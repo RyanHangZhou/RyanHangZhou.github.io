@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I was a postdoc researcher working with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. GrUVi is a [top](http://csrankings.org/#/index?vision&graph&visualization&world) vision and graphics lab in the world. Previously, I received my Ph.D. in Cyberspace Security from University of Science and Technology of China, where I did research on 3D deep learning and multimedia security with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. in Communications Engineering from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/).
 
-A data-driven personal website
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://www.sfu.ca/~amahdavi/Home.html">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
 
-Getting started
+<a href="https://mzh045.github.io/">Zehua Ma</a>, Hang Zhou and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>AnisoTag: 3D Printed Tag on 2D Surface via Reflection Anisotropy</em>, CHI, 2023 [<a href="https://arxiv.org/abs/2301.10599">arXiv</a>] [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]
+
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="https://mzh045.github.io/">Zehua Ma</a>, Feng Wang and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>Triangle Mesh Watermarking and Steganography</em>, Springer Nature, 2022 [<a href="https://link.springer.com/book/10.1007/978-981-19-7720-6">Link</a>]
+
+<a href="https://scholar.google.com/citations?user=F-OzLhQAAAAJ&hl=zh-CN">Qidong Huang</a>, <a href="https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=zh-CN&oi=ao">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Shape-invariant 3D Adversarial Point Clouds</em>, CVPR, 2022 [<a href="https://arxiv.org/abs/2203.04041">arXiv</a>] [<a href='https://github.com/shikiw/SI-Adv'>GitHub</a>]
+
+Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="http://home.ustc.edu.cn/~zjzac/">Jie Zhang</a>, <a href="http://staff.ustc.edu.cn/~welbeckz/">Wenbo Zhou</a> and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>]
+
+Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, Weixiang Li and Nenghai Yu, <em>Three-Dimensional Mesh Steganography and Steganalysis: A Review</em>, TVCG, 2021 [<a href="https://arxiv.org/abs/2104.10203">arXiv</a>]
+
+<!-- Hang Zhou, <em>Research on Models and Methods of 3D Steganography</em>, Doctoral Dissertation, in Chinese, 2020 [<a href="thesis/3DSteganography_PhDDissertation_HangZhou.pdf">PDF</a>] -->
+
+Hang Zhou, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=zh-CN&oi=ao">Xiaoyi Dong</a>, Kunlin Liu, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-based Deep Networks</em>, CVPR, 2020 [<a href="https://arxiv.org/abs/2011.00566">arXiv</a>] [<a href="https://github.com/RyanHangZhou/LG-GAN">GitHub</a>]
+
+<a href="https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=zh-CN&oi=ao">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://ganghua.org/">Gang Hua</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Self-Robust 3D Point Recognition via Gather-vector Guidance</em>, CVPR, 2020 [<a href="https://ieeexplore.ieee.org/document/9156362">Paper</a>]
+
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Han Fang, <a href="http://staff.ustc.edu.cn/~welbeckz/">Wenbo Zhou</a> and Nenghai Yu, <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>, ICCV, 2019 [<a href="https://arxiv.org/abs/1812.11017">arXiv</a>] [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>]
+
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>, TVCG, 2019 [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>]
+
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Yuanzhi Yao and Nenghai Yu, <em>Distortion Design for Secure Adaptive 3D Mesh Steganography</em>, TMM, 2018 [<a href="https://ieeexplore.ieee.org/document/8540087">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganography">GitHub</a>]
+
+Ruiqi Jiang, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Reversible Data Hiding in Encrypted Three-Dimensional Mesh Models</I>, TMM, 2017 [<a href="https://ieeexplore.ieee.org/document/7967833">Paper</a>] [<a href="https://github.com/RyanHangZhou/Reversible-Data-Hiding-Mesh">GitHub</a>]
+
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Comments on "Steganography Using Reversible Texture Synthesis"</I>, TIP, 2017 [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>]
+
+
+Services
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Conference Reviewer: 
+ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Journal Reviewer: 
+TPAMI, TVCG, TIP, TIFS, TCSVT, TASLP
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
+<!-- Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png) -->
+<!-- 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
