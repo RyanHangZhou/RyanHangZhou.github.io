@@ -14,7 +14,7 @@ I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz
 Publications
 ======
 
-<a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 (conference) [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>]
+<a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>]
 
 Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://www.sfu.ca/~amahdavi/Home.html">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
 
