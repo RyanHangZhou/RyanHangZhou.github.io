@@ -14,6 +14,8 @@ I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz
 Publications
 ======
 
+<a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
+
 <a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>] [<a href="https://github.com/qiminchen/ShaDDR">GitHub</a>]
 
 Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://www.sfu.ca/~amahdavi/Home.html">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
@@ -51,7 +53,7 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 Services
 ======
 Conference Reviewer: 
-ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024
+ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, SIGGRAPH2024
 
 Journal Reviewer: 
 TPAMI, TVCG, TIP, TIFS, TCSVT, TASLP
