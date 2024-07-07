@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. GrUVi is a [top](http://csrankings.org/#/index?vision&graph&visualization&world) vision and graphics lab in the world. Previously, I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/).
 
 
 Publications
 ======
+
+<style><!-- 
+p1 span { font-variant: small-caps}
+</style>
+
+Qi Sun, Hang Zhou, Li Li, Wengang Zhou and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024
 
 <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
 
@@ -24,7 +31,7 @@ Kui Zhang, Hang Zhou, Jie Zhang, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~
 
 Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://www.sfu.ca/~amahdavi/Home.html">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
 
-Qichao Ying, Hang Zhou, <a href="https://tomzqian.github.io/">Zhenxing Qian</a>, <a href="https://blazelisheng.github.io/">Sheng Li</a> and <a href="https://scholar.google.com.hk/citations?user=P76GtHwAAAAJ&hl=en">Xinpeng Zhang</a>, <em>Learning to Immunize Images for Tamper Localization and Self-Recovery</em>, TPAMI, 2023 [<a href="https://arxiv.org/pdf/2210.15902.pdf">arXiv</a>] 
+Qichao Ying, Hang Zhou, <a href="https://tomzqian.github.io/">Zhenxing Qian</a>, Sheng Li and Xinpeng Zhang, <em>Learning to Immunize Images for Tamper Localization and Self-Recovery</em>, TPAMI, 2023 [<a href="https://arxiv.org/pdf/2210.15902.pdf">arXiv</a>] 
 
 
 <a href="https://mzh045.github.io/">Zehua Ma</a>, Hang Zhou and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>AnisoTag: 3D Printed Tag on 2D Surface via Reflection Anisotropy</em>, CHI, 2023 [<a href="https://arxiv.org/abs/2301.10599">arXiv</a>] [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]

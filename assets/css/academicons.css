@@ -325,3 +325,19 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+#small-caps {
+  font-variant-caps: small-caps;
+}  
+
+#all-small-caps {
+  font-variant-caps: all-small-caps;
+}  
+
+#petite-caps {
+  font-variant-caps: petite-caps;
+}  
+
+#all-petite-caps {
+  font-variant-caps: all-petite-caps;
+}  
+  
