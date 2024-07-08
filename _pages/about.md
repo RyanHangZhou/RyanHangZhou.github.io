@@ -25,7 +25,7 @@ Qi Sun, Hang Zhou, Li Li, Wengang Zhou and Houqiang Li, <em><p1><span class="sma
 
 Kui Zhang, Hang Zhou, Jie Zhang, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation</em>, ICML, 2024
 
-<a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>]
+<!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>] -->
 
 <a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>] [<a href="https://github.com/qiminchen/ShaDDR">GitHub</a>]
 
@@ -54,17 +54,17 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 
 Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>, TVCG, 2019 [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>]
 
-Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Yuanzhi Yao and Nenghai Yu, <em>Distortion Design for Secure Adaptive 3D Mesh Steganography</em>, TMM, 2018 [<a href="https://ieeexplore.ieee.org/document/8540087">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganography">GitHub</a>]
+<!-- Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Yuanzhi Yao and Nenghai Yu, <em>Distortion Design for Secure Adaptive 3D Mesh Steganography</em>, TMM, 2018 [<a href="https://ieeexplore.ieee.org/document/8540087">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganography">GitHub</a>] -->
 
-Ruiqi Jiang, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Reversible Data Hiding in Encrypted Three-Dimensional Mesh Models</I>, TMM, 2017 [<a href="https://ieeexplore.ieee.org/document/7967833">Paper</a>] [<a href="https://github.com/RyanHangZhou/Reversible-Data-Hiding-Mesh">GitHub</a>]
+<!-- Ruiqi Jiang, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Reversible Data Hiding in Encrypted Three-Dimensional Mesh Models</I>, TMM, 2017 [<a href="https://ieeexplore.ieee.org/document/7967833">Paper</a>] [<a href="https://github.com/RyanHangZhou/Reversible-Data-Hiding-Mesh">GitHub</a>] -->
 
-Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Comments on "Steganography Using Reversible Texture Synthesis"</I>, TIP, 2017 [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>]
+<!-- Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Comments on "Steganography Using Reversible Texture Synthesis"</I>, TIP, 2017 [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>] -->
 
 
 Services
 ======
 Conference Reviewer: 
-ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, SIGGRAPH2024
+ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, NeurIPS2024 
 
 Journal Reviewer: 
 TPAMI, TVCG, TIP, TIFS, TCSVT, TASLP
