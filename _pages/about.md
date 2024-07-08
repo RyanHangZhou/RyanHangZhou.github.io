@@ -23,7 +23,7 @@ Qi Sun, Hang Zhou, Li Li, Wengang Zhou and Houqiang Li, <em><p1><span class="sma
 
 <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
 
-Kui Zhang, Hang Zhou, Jie Zhang, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation</em>, ICML, 2024
+Kui Zhang, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation</em>, ICML, 2024
 
 <!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>] -->
 
@@ -40,7 +40,7 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 
 <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Shape-invariant 3D Adversarial Point Clouds</em>, CVPR, 2022 [<a href="https://arxiv.org/abs/2203.04041">arXiv</a>] [<a href='https://github.com/shikiw/SI-Adv'>GitHub</a>]
 
-Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="http://home.ustc.edu.cn/~zjzac/">Jie Zhang</a>, Wenbo Zhou and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>]
+Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zhou and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>]
 
 Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, Weixiang Li and Nenghai Yu, <em>Three-Dimensional Mesh Steganography and Steganalysis: A Review</em>, TVCG, 2021 [<a href="https://arxiv.org/abs/2104.10203">arXiv</a>]
 
