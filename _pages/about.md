@@ -40,7 +40,7 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 
 <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Shape-invariant 3D Adversarial Point Clouds</em>, CVPR, 2022 [<a href="https://arxiv.org/abs/2203.04041">arXiv</a>] [<a href='https://github.com/shikiw/SI-Adv'>GitHub</a>]
 
-Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="http://home.ustc.edu.cn/~zjzac/">Jie Zhang</a>, <a href="http://staff.ustc.edu.cn/~welbeckz/">Wenbo Zhou</a> and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>]
+Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="http://home.ustc.edu.cn/~zjzac/">Jie Zhang</a>, Wenbo Zhou and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>]
 
 Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, Weixiang Li and Nenghai Yu, <em>Three-Dimensional Mesh Steganography and Steganalysis: A Review</em>, TVCG, 2021 [<a href="https://arxiv.org/abs/2104.10203">arXiv</a>]
 
@@ -50,7 +50,7 @@ Hang Zhou, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="ht
 
 <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://ganghua.org/">Gang Hua</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Self-Robust 3D Point Recognition via Gather-Vector Guidance</em>, CVPR, 2020 [<a href="https://ieeexplore.ieee.org/document/9156362">Paper</a>]
 
-Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Han Fang, <a href="http://staff.ustc.edu.cn/~welbeckz/">Wenbo Zhou</a> and Nenghai Yu, <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>, ICCV, 2019 [<a href="https://arxiv.org/abs/1812.11017">arXiv</a>] [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>]
+Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Han Fang, Wenbo Zhou and Nenghai Yu, <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>, ICCV, 2019 [<a href="https://arxiv.org/abs/1812.11017">arXiv</a>] [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>]
 
 Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>, TVCG, 2019 [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>]
 
