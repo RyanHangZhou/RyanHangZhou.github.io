@@ -19,7 +19,7 @@ Publications
 p1 span { font-variant: small-caps}
 </style>
 
-Qi Sun, Hang Zhou, Li Li, Wengang Zhou and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/pdf/2407.05388">arXiv</a>]
+Qi Sun, Hang Zhou, Wengang Zhou, Li Li and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/pdf/2407.05388">arXiv</a>]
 
 <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
 
