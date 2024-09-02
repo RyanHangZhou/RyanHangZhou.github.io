@@ -19,14 +19,14 @@ Publications
 p1 span { font-variant: small-caps}
 </style>
 
-Jiacheng Liu, Hang Zhou, Shida Wei and <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <em>DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition</em>, Computer Graphics Forum (Special Issue of Pacific Graphics), 2024
+Jiacheng Liu, Hang Zhou, Shida Wei and <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <em>DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition</em>, Computer Graphics Forum (Special Issue of Pacific Graphics), 2024 [<a href="https://arxiv.org/pdf/2406.07852">arXiv</a>]
 
 
 Qi Sun, Hang Zhou, Wengang Zhou, Li Li and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/pdf/2407.05388">arXiv</a>]
 
 <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
 
-Kui Zhang, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation</em>, ICML, 2024
+Kui Zhang, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation</em>, ICML, 2024 [<a href="https://openreview.net/pdf?id=st2BTty53v">OpenReview</a>]
 
 <!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>] -->
 
@@ -49,7 +49,7 @@ Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang<
 
 <!-- Hang Zhou, <em>Research on Models and Methods of 3D Steganography</em>, Doctoral Dissertation, in Chinese, 2020 [<a href="thesis/3DSteganography_PhDDissertation_HangZhou.pdf">PDF</a>] -->
 
-Hang Zhou, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, Kunlin Liu, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-Based Deep Networks</em>, CVPR, 2020 [<a href="https://arxiv.org/abs/2011.00566">arXiv</a>] [<a href="https://github.com/RyanHangZhou/LG-GAN">GitHub</a>]
+Hang Zhou, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, Kunlin Liu, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-Based Deep Networks</em>, CVPR, 2020 [<a href="https://arxiv.org/pdf/2011.00566">arXiv</a>] [<a href="https://github.com/RyanHangZhou/LG-GAN">GitHub</a>]
 
 <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://ganghua.org/">Gang Hua</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Self-Robust 3D Point Recognition via Gather-Vector Guidance</em>, CVPR, 2020 [<a href="https://ieeexplore.ieee.org/document/9156362">Paper</a>]
 
