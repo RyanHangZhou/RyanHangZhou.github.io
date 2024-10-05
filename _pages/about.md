@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral researcher working with [Cheng Li](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada, focusing on the intersection of computer vision and graphics. Previously, I was a postdoctoral researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, Canada, where I worked on compositional modelling and graphics.
 
-I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. GrUVi is a [top](http://csrankings.org/#/index?vision&graph&visualization&world) vision and graphics lab in the world. Previously, I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/).
+I earned my Ph.D. from the University of Science and Technology of China, specializing in 3D deep learning under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that time, I also worked as a research intern in the Machine Learning Group at Microsoft Research Asia, collaborating with Taifeng Wang. I hold a B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/).
+
+<!-- I am a postdoctoral researcher with [Cheng Li](https://www.ece.ualberta.ca/~lcheng5/) in [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/) at University of Alberta, Canada, working on the intersection of vision and graphics. 
+Previously, I was a postdoctoral researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. 
+I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/). -->
+
+<!-- I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. GrUVi is a [top](http://csrankings.org/#/index?vision&graph&visualization&world) vision and graphics lab in the world. Previously, I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/). -->
 
 
 Publications
@@ -62,6 +69,21 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 <!-- Ruiqi Jiang, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Reversible Data Hiding in Encrypted Three-Dimensional Mesh Models</I>, TMM, 2017 [<a href="https://ieeexplore.ieee.org/document/7967833">Paper</a>] [<a href="https://github.com/RyanHangZhou/Reversible-Data-Hiding-Mesh">GitHub</a>] -->
 
 <!-- Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Comments on "Steganography Using Reversible Texture Synthesis"</I>, TIP, 2017 [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>] -->
+
+
+Invited talks
+======
+<p>Machine Learning in Generative AI, Fudan University, Shanghai, China, September 10, 2024<br>
+
+Machine Learning in Compositional Generative AI, University of Science and Technology of China, Hefei, China, June 10-11, 2024<br>
+
+Controllable Compositional Modelling in Generative AI, University of Alberta, online, March 18, 2024<br>
+
+Controllable Compositional Modeling in Computer Vision and Graphics, Imperial-X, Imperial College London, London, UK, November 6, 2023<br>
+
+Exploring Deep Point-Cloud Robustness, GAMES Webinar, online, December 22, 2022<br>
+
+Learning Diverse and Controllable 3D Content Generation, Huawei-SFU Joint Lab Workshop, Vancouver, Canada, November 25, 2022</p>
 
 
 Services
