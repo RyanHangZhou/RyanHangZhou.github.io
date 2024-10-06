@@ -41,7 +41,7 @@ Kui Zhang, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zh
 
 Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://www.sfu.ca/~amahdavi/Home.html">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
 
-Qichao Ying, Hang Zhou, <a href="https://tomzqian.github.io/">Zhenxing Qian</a>, Sheng Li and Xinpeng Zhang, <em>Learning to Immunize Images for Tamper Localization and Self-Recovery</em>, TPAMI, 2023 [<a href="https://arxiv.org/pdf/2210.15902.pdf">arXiv</a>] 
+Qichao Ying, Hang Zhou, <a href="https://tomzqian.github.io/">Zhenxing Qian</a>, Sheng Li and Xinpeng Zhang, <em>Learning to Immunize Images for Tamper Localization and Self-Recovery</em>, TPAMI, 2023 [<a href="https://arxiv.org/pdf/2210.15902.pdf">arXiv</a>] [<a href="https://github.com/yingqichao/imuge_plus">GitHub</a>]
 
 
 <a href="https://mzh045.github.io/">Zehua Ma</a>, Hang Zhou and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>AnisoTag: 3D Printed Tag on 2D Surface via Reflection Anisotropy</em>, CHI, 2023 [<a href="https://arxiv.org/abs/2301.10599">arXiv</a>] [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]
