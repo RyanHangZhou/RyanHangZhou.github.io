@@ -76,6 +76,9 @@ Hang Zhou, <a href="https://coriverchen.github.io/">Kejiang Chen</a>, <a href="h
 
 Invited talks
 ======
+
+<p>Indoor Scene Synthesis and Beyond, University of Alberta, Edmonton, Canada, Nov 7, 2025<br>
+
 <p>Machine Learning in Generative AI, Fudan University, Shanghai, China, September 10, 2024<br>
 
 Machine Learning in Compositional Generative AI, University of Science and Technology of China, Hefei, China, June 10-11, 2024<br>
