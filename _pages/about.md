@@ -26,10 +26,13 @@ Publications
 p1 span { font-variant: small-caps}
 </style>
 
+Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, <a href="https://ruim-jlu.github.io/#about">Rui Ma</a> and <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Cheng Li</a>, <em><p1><span class="small-caps">BootPlace</span></p1>: Bootstrapped Object Placement with Detection Transformers</em>, CVPR, 2025
+
+<a href="https://georgefwt.github.io/">Weitao Feng</a>, Hang Zhou, <a href="https://www.cityu.edu.hk/stfprofile/jingliao.htm">Jing Liao</a>, <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a> and Wenbo Zhou, <em><p1><span class="small-caps">CasaGPT</span></p1>: Cuboid Arrangement and Scene Assembly for Interior Design</em>, CVPR, 2025
+
 Jiacheng Liu, Hang Zhou, Shida Wei and <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <em>DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition</em>, Computer Graphics Forum (Special Issue of Pacific Graphics), 2024 [<a href="https://arxiv.org/pdf/2406.07852">arXiv</a>]
 
-
-Qi Sun, Hang Zhou, Wengang Zhou, Li Li and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/pdf/2407.05388">arXiv</a>]
+<a href="https://openreview.net/profile?id=~Qi_Sun7">Qi Sun</a>, Hang Zhou, Wengang Zhou, Li Li and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/pdf/2407.05388">arXiv</a>]
 
 <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/pdf/2311.13125.pdf">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>]
 
@@ -77,7 +80,7 @@ Invited talks
 
 Machine Learning in Compositional Generative AI, University of Science and Technology of China, Hefei, China, June 10-11, 2024<br>
 
-Controllable Compositional Modelling in Generative AI, University of Alberta, online, March 18, 2024<br>
+<!-- Controllable Compositional Modelling in Generative AI, University of Alberta, online, March 18, 2024<br> -->
 
 Controllable Compositional Modeling in Computer Vision and Graphics, Imperial-X, Imperial College London, London, UK, November 6, 2023<br>
 
@@ -89,10 +92,10 @@ Learning Diverse and Controllable 3D Content Generation, Huawei-SFU Joint Lab Wo
 Services
 ======
 Conference Reviewer: 
-ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, NeurIPS2024 
+ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI 2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, NeurIPS2024, CVPR2025, SIGGRAPH25, ICCV2025
 
 Journal Reviewer: 
-TPAMI, TVCG, TIP, TIFS, TCSVT, TASLP
+TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
 
 
 <!-- Example: editing a markdown file for a talk
