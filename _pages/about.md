@@ -26,7 +26,7 @@ Publications
 p1 span { font-variant: small-caps}
 </style>
 
-Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, <a href="https://ruim-jlu.github.io/#about">Rui Ma</a> and <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Cheng Li</a>, <em><p1><span class="small-caps">BootPlace</span></p1>: Bootstrapped Object Placement with Detection Transformers</em>, CVPR, 2025 [<a href="/bootplace/">Project page</a>]
+Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, <a href="https://ruim-jlu.github.io/#about">Rui Ma</a> and <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Cheng Li</a>, <em><p1><span class="small-caps">BootPlace</span></p1>: Bootstrapped Object Placement with Detection Transformers</em>, CVPR, 2025 [<a href="https://arxiv.org/pdf/2503.21991">arXiv</a>] [<a href="https://github.com/RyanHangZhou/BOOTPLACE">GitHub</a>] [<a href="/bootplace/">Project page</a>]
 
 <a href="https://georgefwt.github.io/">Weitao Feng</a>, Hang Zhou, <a href="https://www.cityu.edu.hk/stfprofile/jingliao.htm">Jing Liao</a>, <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a> and Wenbo Zhou, <em><p1><span class="small-caps">CasaGPT</span></p1>: Cuboid Arrangement and Scene Assembly for Interior Design</em>, CVPR, 2025
 
@@ -40,7 +40,7 @@ Kui Zhang, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zh
 
 <!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>] -->
 
-<a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>] [<a href="https://github.com/qiminchen/ShaDDR">GitHub</a>]
+<a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/pdf/2306.04889.pdf">arXiv</a>] [<a href="https://github.com/qiminchen/ShaDDR">GitHub</a>] [<a href="https://qiminchen.github.io/shaddr/">Project page</a>]
 
 Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://arash-mham.github.io/">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/pdf/2112.06596.pdf">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>]
 
