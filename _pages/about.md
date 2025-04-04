@@ -77,7 +77,9 @@ Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href=
 Invited talks
 ======
 
-<p>Indoor Scene Synthesis and Beyond, University of Alberta, Edmonton, Canada, Nov 7, 2024<br>
+<p>Learning Space Planning for 3D Indoor Scene Synthesis, Concordia University, online, April 3, 2025<br>
+
+Indoor Scene Synthesis and Beyond, University of Alberta, Edmonton, Canada, Nov 7, 2024<br>
 
 Machine Learning in Generative AI, Fudan University, Shanghai, China, September 10, 2024<br>
 
