@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : ""
-  location         : 
+  location         : "Edmonton, AB"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YrQxT8cAAAAJ&amp;"
