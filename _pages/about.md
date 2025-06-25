@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada, focusing on shape generation, placement and composition. Previously, I was a postdoctoral researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, Canada, where I worked on compositional modelling and graphics.
-
-I earned my Ph.D. from the University of Science and Technology of China, specializing in 3D deep learning under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that time, I also worked as a research intern in the Machine Learning Group at Microsoft Research Asia, collaborating with [Taifeng Wang](https://scholar.google.com/citations?user=uKZ_OrYAAAAJ&hl=en). I hold a B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/).
+I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene generation, composition, arrangement, and reconstruction. 
+Previously, I was a Postdoctoral Fellow at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling and graphics.
+I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). 
 
 <!-- I am a postdoctoral researcher with [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/) in [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/) at University of Alberta, Canada, working on the intersection of vision and graphics. 
 Previously, I was a postdoctoral researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. 
 I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/). -->
-
-<!-- I am a postdoc researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. GrUVi is a [top](http://csrankings.org/#/index?vision&graph&visualization&world) vision and graphics lab in the world. Previously, I received my Ph.D. from University of Science and Technology of China, where I did research on 3D deep learning with [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). During that period, I worked with [Taifeng Wang](https://scholar.google.com/citations?hl=zh-CN&user=aMNBEk0AAAAJ&view_op=list_works&sortby=pubdate) as a research intern in Machine Learning Group, Microsoft Research Asia. I got my B.S. from Shanghai University, where I worked with [Zhenxing Qian](https://tomzqian.github.io/) and [Wei Shen](https://shenwei1231.github.io/). -->
-
 
 Publications
 ======
@@ -25,9 +22,6 @@ Publications
 <style><!-- 
 p1 span { font-variant: small-caps}
 </style>
-
-<!-- <img src="images/BOOTPLACE.png" alt="BootPlace thumbnail" width="250" style="vertical-align: middle; margin-right: 10px; float: left;">
-Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, <a href="https://ruim-jlu.github.io/#about">Rui Ma</a> and <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a>, <em><p1><span class="small-caps">BootPlace</span></p1>: Bootstrapped Object Placement with Detection Transformers</em>, CVPR, 2025 [<a href="https://arxiv.org/abs/2503.21991">arXiv</a>] [<a href="https://github.com/RyanHangZhou/BOOTPLACE">GitHub</a>] [<a href="/bootplace/">Project page</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/BOOTPLACE.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -43,8 +37,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
   </div>
 </div>
 
-<!-- <a href="https://georgefwt.github.io/">Weitao Feng</a>, Hang Zhou, <a href="https://www.cityu.edu.hk/stfprofile/jingliao.htm">Jing Liao</a>, <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a> and Wenbo Zhou, <em><p1><span class="small-caps">CasaGPT</span></p1>: Cuboid Arrangement and Scene Assembly for Interior Design</em>, CVPR, 2025 (Oral) [<a href="https://arxiv.org/abs/2504.19478">arXiv</a>] [<a href="https://github.com/CASAGPT/CASA-GPT">GitHub</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/CASAGPT.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -58,8 +50,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
 
 <!-- Jiacheng Liu, Hang Zhou, Shida Wei and <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <em>DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition</em>, Computer Graphics Forum (Special Issue of Pacific Graphics), 2024 [<a href="https://arxiv.org/abs/2406.07852">arXiv</a>] -->
 
-<!-- <a href="https://openreview.net/profile?id=~Qi_Sun7">Qi Sun</a>, Hang Zhou, Wengang Zhou, Li Li and Houqiang Li, <em><p1><span class="small-caps">Forest2Seq</span></p1>: Revitalizing Order Prior for Sequential Indoor Scene Synthesis</em>, ECCV, 2024 [<a href="https://arxiv.org/abs/2407.05388">arXiv</a>] [<a href="https://github.com/qsun1/Forest2Seq">GitHub</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/FOREST2SEQ.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -70,8 +60,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
     [<a href="https://github.com/qsun1/Forest2Seq">GitHub</a>]
   </div>
 </div>
-
-<!-- <a href="https://czq142857.github.io/">Zhiqin Chen</a>, <a href="https://qiminchen.github.io/">Qimin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>DAE-Net: Deforming Auto-Encoder for Fine-Grained Shape Co-Segmentation</em>, SIGGRAPH, 2024 [<a href="https://arxiv.org/abs/2311.13125">arXiv</a>] [<a href="https://github.com/czq142857/DAE-Net">GitHub</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/DAE-Net.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -89,8 +77,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
 
 <!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Kui Zhang, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition</em>, TIP, 2024 [<a href="https://arxiv.org/pdf/2209.07788">arXiv</a>] [<a href="https://github.com/shikiw/PointCAT">GitHub</a>] -->
 
-<!-- <a href="https://qiminchen.github.io/">Qimin Chen</a>, <a href="https://czq142857.github.io/">Zhiqin Chen</a>, Hang Zhou and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>ShaDDR: Interactive Example-Based Geometry and Texture Generation via 3D Shape Detailization and Differentiable Rendering</em>, SIGGRAPH Asia, 2023 [<a href="https://arxiv.org/abs/2306.04889">arXiv</a>] [<a href="https://github.com/qiminchen/ShaDDR">GitHub</a>] [<a href="https://qiminchen.github.io/shaddr/">Project page</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/ShaDDR.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -102,10 +88,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
     [<a href="https://qiminchen.github.io/shaddr/">Project page</a>]
   </div>
 </div>
-
-
-
-<!-- Hang Zhou, <a href="https://ruim-jlu.github.io/">Rui Ma</a>, <a href="https://scholar.google.com/citations?user=Feu8yU0AAAAJ&hl=en">Ling-Xiao Zhang</a>, <a href="http://geometrylearning.com/lin/">Lin Gao</a>, <a href="https://arash-mham.github.io/">Ali Mahdavi-Amiri</a> and <a href="https://www.cs.sfu.ca/~haoz/">Hao Zhang</a>, <em>SAC-GAN: Structure-Aware Image Composition</em>, TVCG, 2023 [<a href="https://arxiv.org/abs/2112.06596">arXiv</a>] [<a href="https://github.com/RyanHangZhou/SAC-GAN">GitHub</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/SAC-GAN.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -121,9 +103,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
 
 <!-- Qichao Ying, Hang Zhou, <a href="https://tomzqian.github.io/">Zhenxing Qian</a>, Sheng Li and Xinpeng Zhang, <em>Learning to Immunize Images for Tamper Localization and Self-Recovery</em>, TPAMI, 2023 [<a href="https://arxiv.org/abs/2210.15902">arXiv</a>] [<a href="https://github.com/yingqichao/imuge_plus">GitHub</a>] -->
 
-
-<!-- <a href="https://mzh045.github.io/">Zehua Ma</a>, Hang Zhou and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>AnisoTag: 3D Printed Tag on 2D Surface via Reflection Anisotropy</em>, CHI, 2023 [<a href="https://arxiv.org/abs/2301.10599">arXiv</a>] [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/AnisoTag.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -134,11 +113,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
     [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]
   </div>
 </div>
-
-
-<!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="https://mzh045.github.io/">Zehua Ma</a>, Feng Wang and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <em>Triangle Mesh Watermarking and Steganography</em>, Springer Nature, 2022 [<a href="https://link.springer.com/book/10.1007/978-981-19-7720-6">Link</a>] -->
-
-<!-- <a href="https://shikiw.github.io/">Qidong Huang</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Shape-invariant 3D Adversarial Point Clouds</em>, CVPR, 2022 [<a href="https://arxiv.org/abs/2203.04041">arXiv</a>] [<a href='https://github.com/shikiw/SI-Adv'>GitHub</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/SI-Adv.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -151,12 +125,7 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
   </div>
 </div>
 
-
-
-
 <!-- Kunlin Liu, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Hang Zhou, <a href="https://zjzac.github.io/">Jie Zhang</a>, Wenbo Zhou and Nenghai Yu, <em>JPEG Robust Invertible Grayscale</em>, TVCG, 2021 [<a href="https://ieeexplore.ieee.org/document/9453114">Paper</a>] -->
-
-<!-- Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, Weixiang Li and Nenghai Yu, <em>Three-Dimensional Mesh Steganography and Steganalysis: A Review</em>, TVCG, 2021 [<a href="https://arxiv.org/abs/2104.10203">arXiv</a>] -->
 
 <!-- <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/review.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -170,8 +139,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
 
 <!-- Hang Zhou, <em>Research on Models and Methods of 3D Steganography</em>, Doctoral Dissertation, in Chinese, 2020 [<a href="thesis/3DSteganography_PhDDissertation_HangZhou.pdf">PDF</a>] -->
 
-<!-- Hang Zhou, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, <a href="https://liaojing.github.io/html/index.html">Jing Liao</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, Kunlin Liu, <a href="http://ganghua.org/">Gang Hua</a> and Nenghai Yu, <em>LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud-Based Deep Networks</em>, CVPR, 2020 [<a href="https://arxiv.org/abs/2011.00566">arXiv</a>] [<a href="https://github.com/RyanHangZhou/LG-GAN">GitHub</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/LG-GAN.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -183,8 +150,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
   </div>
 </div>
 
-<!-- <a href="https://lightdxy.github.io/">Xiaoyi Dong</a>, <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, Hang Zhou, <a href="http://ganghua.org/">Gang Hua</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, <em>Self-Robust 3D Point Recognition via Gather-Vector Guidance</em>, CVPR, 2020 [<a href="https://ieeexplore.ieee.org/document/9156362">Paper</a>] -->
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/Gather-vector.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
@@ -194,10 +159,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
     [<a href="https://ieeexplore.ieee.org/document/9156362">Paper</a>]
   </div>
 </div>
-
-
-
-<!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Han Fang, Wenbo Zhou and Nenghai Yu, <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>, ICCV, 2019 [<a href="https://arxiv.org/abs/1812.11017">arXiv</a>] [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/DUP-Net.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -209,8 +170,6 @@ Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>
     [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>]
   </div>
 </div>
-
-<!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>, TVCG, 2019 [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>] -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/NVTplus.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
