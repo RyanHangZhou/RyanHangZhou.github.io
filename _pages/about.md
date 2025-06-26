@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene generation, composition, arrangement, and reconstruction. 
+I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene generation, editing, composition, arrangement, and reconstruction. 
 Previously, I was a Postdoctoral Fellow at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling and graphics.
 I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). 
 
