@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene generation, editing, composition, arrangement, and reconstruction. 
-Previously, I was a Postdoctoral Fellow at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling and graphics.
+Previously, I was a postdoctoral researcher at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling and graphics.
 I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). 
 
 <!-- I am a postdoctoral researcher with [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/) in [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/) at University of Alberta, Canada, working on the intersection of vision and graphics. 
@@ -215,7 +215,7 @@ Conference Reviewer:
 ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, NeurIPS2024, CVPR2025, SIGGRAPH25, ICCV2025, SIGGRAPH Asia25
 
 Journal Reviewer: 
-TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
+TOG, TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
 
 
 <!-- Example: editing a markdown file for a talk
