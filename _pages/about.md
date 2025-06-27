@@ -164,7 +164,7 @@ p1 span { font-variant: small-caps}
   <img src="images/DUP-Net.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
     Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Han Fang, Wenbo Zhou and Nenghai Yu, 
-    <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>
+    <em>DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense</em>,
     ICCV, 2019
     [<a href="https://arxiv.org/abs/1812.11017">arXiv</a>] 
     [<a href="https://github.com/RyanHangZhou/DUP-Net">GitHub</a>]
@@ -175,7 +175,7 @@ p1 span { font-variant: small-caps}
   <img src="images/NVTplus.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
     Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, 
-    <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>
+    <em>Feature-Preserving Tensor Voting Model for Mesh Steganalysis</em>,
     TVCG, 2019
     [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] 
     [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>]
