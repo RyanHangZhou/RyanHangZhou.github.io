@@ -97,6 +97,7 @@ p1 span { font-variant: small-caps}
     CHI, 2023
     [<a href="https://arxiv.org/abs/2301.10599">arXiv</a>] 
     [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]
+    [<a href="https://www.youtube.com/watch?v=9V05nOfe2-s">Video</a>]
   </div>
 </div>
 
@@ -182,11 +183,21 @@ p1 span { font-variant: small-caps}
   </div>
 </div>
 
+
 <!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Yuanzhi Yao and Nenghai Yu, <em>Distortion Design for Secure Adaptive 3D Mesh Steganography</em>, TMM, 2018 [<a href="https://ieeexplore.ieee.org/document/8540087">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganography">GitHub</a>] -->
 
 <!-- Ruiqi Jiang, Hang Zhou, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Reversible Data Hiding in Encrypted Three-Dimensional Mesh Models</I>, TMM, 2017 [<a href="https://ieeexplore.ieee.org/document/7967833">Paper</a>] [<a href="https://github.com/RyanHangZhou/Reversible-Data-Hiding-Mesh">GitHub</a>] -->
 
-<!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, and Nenghai Yu, <I>Comments on "Steganography Using Reversible Texture Synthesis"</I>, TIP, 2017 [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>] -->
+<!-- <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img src="images/Texture.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
+  <div>
+    Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a> and Nenghai Yu, 
+    <em>Comments on "Steganography Using Reversible Texture Synthesis"</em>,
+    TIP, 2017
+    [<a href="https://ieeexplore.ieee.org/document/6957552">Paper</a>] 
+    [<a href="https://github.com/RyanHangZhou/Texture-Attack">GitHub</a>]
+  </div>
+</div> -->
 
 
 Invited talks
@@ -212,7 +223,7 @@ Learning Diverse and Controllable 3D Content Generation, Huawei-SFU Joint Lab Wo
 Services
 ======
 Conference Reviewer: 
-ICLR2020, CVPR2021, NeurIPS2021, IJCAI2021, AAAI2021, ICLR2021, CVPR2022, NeurIPS2022, ICML2022, AAAI2022, IJCAI2022, ECCV2022, ICLR2022, IJCAI2023, ICLR2023, CVPR2023, ICML2023, ICCV2023, NeurIPS2023, ICLR2024, CVPR2024, ECCV2024, NeurIPS2024, CVPR2025, SIGGRAPH2025, ICCV2025, SIGA2025, 3DV2025, ICLR2026
+ICLR'20, CVPR'21, NeurIPS'21, IJCAI'21, AAAI'21, ICLR'21, CVPR'22, NeurIPS'22, ICML'22, AAAI'22, IJCAI'22, ECCV'22, ICLR'22, IJCAI'23, ICLR'23, CVPR'23, ICML'23, ICCV'23, NeurIPS'23, ICLR'24, CVPR'24, ECCV'24, NeurIPS'24, CVPR'25, SIGGRAPH'25, ICCV'25, SIGA'25, 3DV'25, ICLR'26
 
 Journal Reviewer: 
 TOG, TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
