@@ -24,6 +24,20 @@ p1 span { font-variant: small-caps}
 </style>
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img src="images/PICS.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
+  <div>
+    Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, 
+    <a href="https://sites.google.com/site/senwang1312home/home?authuser=0">Sen Wang</a> and 
+    <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a>, 
+    <em>PICS: Pairwise Image Compositing with Spatial Interactions</em>, 
+    ICLR, 2026
+    [arXiv] 
+    [GitHub] 
+    [Project page]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/BOOTPLACE.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
     Hang Zhou, <a href="https://sites.google.com/site/xinxinzuohome/">Xinxin Zuo</a>, 
