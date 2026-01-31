@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene composition and spatial AI. 
-Previously, I was a postdoctoral researcher at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling for self-driving and graphics.
+Previously, I was a postdoctoral researcher at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling for self-driving.
 I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). 
 
 <!-- I am a postdoctoral researcher with [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/) in [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/) at University of Alberta, Canada, working on the intersection of vision and graphics. 
@@ -219,7 +219,7 @@ Invited talks
 
 <p>Learning Space Planning for 3D Indoor Scene Synthesis, Concordia University, online, April 3, 2025<br>
 
-Indoor Scene Synthesis and Beyond, University of Alberta, Edmonton, Canada, Nov 7, 2024<br>
+<!-- Indoor Scene Synthesis and Beyond, University of Alberta, Edmonton, Canada, Nov 7, 2024<br> -->
 
 Machine Learning in Generative AI, Fudan University, Shanghai, China, September 10, 2024<br>
 
