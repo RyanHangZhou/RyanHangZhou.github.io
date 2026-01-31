@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher working with [Li Cheng](https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/) at the [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/), University of Alberta, Canada. My research focuses on shape/scene composition and spatial AI. 
 Previously, I was a postdoctoral researcher at the [GrUVi Lab](https://gruvi.cs.sfu.ca/), Simon Fraser University, where I worked with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) on compositional modeling for self-driving.
-I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). 
+I received my Ph.D. from the University of Science and Technology of China under the supervision of [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en) and [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html). I also held a research internship with the [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) at Microsoft Research Asia (MSRA). 
 
 <!-- I am a postdoctoral researcher with [Li Cheng](https://www.ece.ualberta.ca/~lcheng5/) in [Vision and Learning Lab](https://vision-and-learning-lab-ualberta.github.io/) at University of Alberta, Canada, working on the intersection of vision and graphics. 
 Previously, I was a postdoctoral researcher with [Hao (Richard) Zhang](https://www.cs.sfu.ca/~haoz/index.html) in [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Canada, working on scene understanding and graphics. 
