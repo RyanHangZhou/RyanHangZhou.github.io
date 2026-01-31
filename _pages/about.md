@@ -103,7 +103,7 @@ p1 span { font-variant: small-caps}
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/AnisoTag.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
     <a href="https://mzh045.github.io/">Zehua Ma</a>, Hang Zhou and <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, 
@@ -113,7 +113,7 @@ p1 span { font-variant: small-caps}
     [<a href="https://github.com/mzh045/AnisoTag_Gcode_tool">GitHub</a>]
     [<a href="https://www.youtube.com/watch?v=9V05nOfe2-s">Video</a>]
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/SAC-GAN.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
@@ -186,7 +186,7 @@ p1 span { font-variant: small-caps}
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/NVTplus.png" alt="BootPlace thumbnail" width="250" style="margin-right: 15px;">
   <div>
     Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Chuan Qin and Nenghai Yu, 
@@ -195,7 +195,7 @@ p1 span { font-variant: small-caps}
     [<a href="https://ieeexplore.ieee.org/document/8764385">Paper</a>] 
     [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganalysis">GitHub</a>]
   </div>
-</div>
+</div> -->
 
 
 <!-- Hang Zhou, <a href="http://home.ustc.edu.cn/~chenkj/">Kejiang Chen</a>, <a href="http://staff.ustc.edu.cn/~zhangwm/index.html">Weiming Zhang</a>, Yuanzhi Yao and Nenghai Yu, <em>Distortion Design for Secure Adaptive 3D Mesh Steganography</em>, TMM, 2018 [<a href="https://ieeexplore.ieee.org/document/8540087">Paper</a>] [<a href="https://github.com/RyanHangZhou/3D-Mesh-Steganography">GitHub</a>] -->
