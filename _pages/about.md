@@ -32,7 +32,7 @@ p1 span { font-variant: small-caps}
     <em>PICS: Pairwise Image Compositing with Spatial Interactions</em>, 
     ICLR, 2026
     [arXiv] 
-    [GitHub] 
+    [<a href="https://github.com/RyanHangZhou/PICS">GitHub</a>] 
     [Project page]
   </div>
 </div>
