@@ -33,7 +33,7 @@ p1 span { font-variant: small-caps}
     ICLR, 2026
     [arXiv] 
     [<a href="https://github.com/RyanHangZhou/PICS">GitHub</a>] 
-    [Project page]
+    [<a href="https://ryanhangzhou.github.io/pics/">Project page</a>]
   </div>
 </div>
 
@@ -237,7 +237,7 @@ Learning Diverse and Controllable 3D Content Generation, Huawei-SFU Joint Lab Wo
 Services
 ======
 Conference Reviewer: 
-ICLR'20, CVPR'21, NeurIPS'21, IJCAI'21, AAAI'21, ICLR'21, CVPR'22, NeurIPS'22, ICML'22, AAAI'22, IJCAI'22, ECCV'22, ICLR'22, IJCAI'23, ICLR'23, CVPR'23, ICML'23, ICCV'23, NeurIPS'23, ICLR'24, CVPR'24, ECCV'24, NeurIPS'24, CVPR'25, SIGGRAPH'25, ICCV'25, SIGA'25, 3DV'25, ICLR'26
+ICLR'20, CVPR'21, NeurIPS'21, IJCAI'21, AAAI'21, ICLR'21, CVPR'22, NeurIPS'22, ICML'22, AAAI'22, IJCAI'22, ECCV'22, ICLR'22, IJCAI'23, ICLR'23, CVPR'23, ICML'23, ICCV'23, NeurIPS'23, ICLR'24, CVPR'24, ECCV'24, NeurIPS'24, CVPR'25, SIGGRAPH'25, ICCV'25, SIGA'25, 3DV'25, ICLR'26, SIGGRAPH'26
 
 Journal Reviewer: 
 TOG, TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
