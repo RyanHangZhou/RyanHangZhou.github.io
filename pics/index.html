@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>PICS: Pairwise Image Compositing with Spatial Interactions</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">PICS: Pairwise Image Compositing with Spatial Interactions</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://ryanhangzhou.github.io/" target="_blank">Hang Zhou</a><sup>1</sup>&emsp;</span>
+                <span class="author-block">
+                  <a href="https://sites.google.com/site/xinxinzuohome/" target="_blank">Xinxin Zuo</a><sup>2</sup>&emsp;</span>
+                  <span class="author-block">
+                    <a href="https://sites.google.com/site/senwang1312home/home?authuser=0" target="_blank">Sen Wang</a><sup>2</sup>&emsp;</span>
+                    <span class="author-block">
+                    <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/" target="_blank">Li Cheng</a><sup>1</sup>
+                  </span>
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block">University of Alberta&emsp; Concordia University<br>ICLR26</span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+
+                  <!-- ArXiv abstract Link -->
+                  <span class="link-block">
+                    <a href="https://ryanhangzhou.github.io/pics/" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/RyanHangZhou/PICS" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Teaser video-->
+<!-- <section class="hero hero is-small">
+  <div style="margin-top: -40px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 25%;">
+    <div class="text-center">
+      <img src="static/images/teaser.png" width="100%" class="center">
+    </div>
+    <div style="margin-top: 5px; text-align: left;">
+      <p>
+        Our method generates spatially plausible and visually realistic pairwise compositions. Each row illustrates two examples, consisting of (from left to right) the objects, the masked background, and two exemplar composite results. 
+      </p>
+    </div>
+  </div>
+  <div class="columns is-centered">
+  <div class="column is-four-fifths">
+    
+    <div class="text-center" style="margin-bottom: 1.5rem;">
+      <img src="static/images/visual_comparison.png" style="width: 85%; display: block; margin: 0 auto;">
+    </div>
+    
+    <div class="content has-text-justified" style="padding: 0 6rem;">
+      <p>
+        <span class="has-text-weight-bold">Visual comparison</span> of pairwise support relations across Paint-by-Paint, ControlCom, ObjectStitch, AnyDoor, FreeCompose, OmniPaint, and InsertAnything. Left: backgrounds and two objects; right: compositing results. The first row shows composites with the basket, and the second row shows subsequent composites obtained by adding the bread on top. Unlike prior methods that suffer from contact artifacts and fidelity loss, our approach performs parallel compositing and yields consistent results with preserved structure.
+      </p>
+    </div>
+
+  </div>
+</div>
+</section> -->
+<section class="hero is-small">
+  <div style="margin-top: -40px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 25%; margin-bottom: 1rem;">
+    <div class="text-center">
+      <img src="static/images/teaser.png" width="100%" class="center">
+    </div>
+    <div style="margin-top: 10px; text-align: left;">
+      <p>
+        Our method generates spatially plausible and visually realistic pairwise compositions. Each row illustrates two examples, consisting of (from left to right) the objects, the masked background, and two exemplar composite results. 
+      </p>
+    </div>
+  </div>
+
+  <div class="columns is-centered" style="margin-top: 0rem; margin-bottom: 0rem;">
+    <div class="column is-four-fifths">
+      
+      <div class="text-center" style="margin-bottom: 1rem;">
+        <img src="static/images/visual_comparison.png" style="width: 85%; display: block; margin: 0 auto;">
+      </div>
+      
+      <div class="content has-text-justified" style="padding: 0 3rem;">
+        <p>
+          <span class="has-text-weight-bold">Visual comparison</span> of pairwise support relations across Paint-by-Paint, ControlCom, ObjectStitch, AnyDoor, FreeCompose, OmniPaint, and InsertAnything. Left: backgrounds and two objects; right: compositing results. The first row shows composites with the basket, and the second row shows subsequent composites obtained by adding the bread on top. Unlike prior methods that suffer from contact artifacts and fidelity loss, our approach performs parallel compositing and yields consistent results with preserved structure.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- End teaser -->
+
+
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Despite strong single-turn performance, diffusion-based image compositing often struggles to preserve coherent spatial relations in pairwise or sequential edits, where subsequent insertions may overwrite previously generated content and disrupt physical consistency. 
+            We introduce PICS, a self-supervised composition-by-decomposition paradigm that composes objects in parallel while explicitly modeling the compositional interactions among (fully-/partially-)visible objects and background.
+            At its core, an Interaction Transformer employs mask-guided Mixture-of-Experts to route background, exclusive, and overlap regions to dedicated experts, with an adaptive $\alpha$-blending strategy that infers a compatibility-aware fusion of overlapping objects while preserving boundary fidelity.
+            To further enhance robustness to geometric variations, we incorporate geometry-aware augmentations covering both out-of-plane and in-plane pose changes of objects. 
+            Our method delivers superior pairwise compositing quality and substantially improved stability, with extensive evaluations across virtual try-on, indoor, and street scene settings showing consistent gains over state-of-the-art baselines. 
+          </p>
+        </div>
+      </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<!-- Paper method -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Method</h2>
+        <div class="content has-text-justified">
+          <div class="text-center">
+          <img src="static/images/network.png" width="100%" class="center">
+        </div>
+        <div class="content has-text-justified">
+          <p>
+            Overview of PICS. Input data are constructed by decomposing the target image into a background and pairwise objects with their designated regions. (a) The interaction diffusion network composites the objects into the background. (b) The interaction transformer block, shared across both branches, models interactions among objects and with the background. (c) Expert blocks focus on distinct spatial regions. All notations are defined in the main text for clarity.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper method -->
+
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+       <div class="item">
+        <!-- Your image here -->
+        <img src="static/images/lvis_recomposition.png" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          <b>Qualitative comparison on the LVIS validation set.</b> Source images, backgrounds, and the two decomposed objects are shown on the left. On the right are the recompositing results from different methods. Our approach is the only one that produces composites with realistic spatial interactions between scene objects while maintaining scene consistency and object identity. 
+        </h2>
+      </div>
+      <div class="item">
+        <!-- Your image here -->
+        <img src="static/images/dreambooth_compare.png" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          <b>Qualitative comparison of different composition orders on the DreamBooth test set.</b> Left: backgrounds and two objects. Right: results from different methods. Our approach better preserves natural contacts and occlusions, while implicitly learning the correct occlusion order.
+        </h2>
+      </div>
+      <div class="item">
+        <!-- Your image here -->
+        <img src="static/images/3-objects.png" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+         3-object compositing. 
+       </h2>
+     </div>
+     <div class="item">
+      <!-- Your image here -->
+      <img src="static/images/4-objects.png" alt="MY ALT TEXT"/>
+      <h2 class="subtitle has-text-centered">
+        4-object compositing. 
+      </h2>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+<!-- End image carousel -->
+
+
+
+
+<!-- Paper poster -->
+<!-- <section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">Poster</h2>
+
+      <iframe  src="static/pdfs/poster.pdf" width="100%" height="550">
+          </iframe>
+        
+      </div>
+    </div>
+  </section> -->
+<!--End paper poster -->
+
+
+<!--BibTex citation -->
+<!--   <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{zhou2025bootplace,
+            title={BOOTPLACE: Bootstrapped Object Placement with Detection Transformers},
+            author={Zhou, Hang and Zuo, Xinxin and Ma, Rui and Cheng, Li},
+            booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+            pages={19294--19303},
+            year={2025}
+          }
+</code></pre>
+    </div>
+</section> -->
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<script type="text/javascript">
+  var sc_project=12345678; 
+  var sc_invisible=1; 
+  var sc_security="abcdef12"; 
+  var sc_https=1; 
+  var sc_impression="1";
+  var sc_url="https://www.statcounter.com";
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js"></script>
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
