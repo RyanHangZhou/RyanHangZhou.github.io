@@ -141,6 +141,14 @@
 <lastmod>2023-06-15T17:56:01-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/pics/</loc>
+<lastmod>2026-02-10T15:37:26-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pics/static/pdfs/poster.pdf</loc>
+<lastmod>2025-03-12T13:35:59-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
 <lastmod>2023-06-15T17:56:01-07:00</lastmod>
 </url>

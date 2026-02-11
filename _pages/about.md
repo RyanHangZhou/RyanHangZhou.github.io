@@ -33,7 +33,7 @@ p1 span { font-variant: small-caps}
     ICLR, 2026
     [arXiv] 
     [<a href="https://github.com/RyanHangZhou/PICS">GitHub</a>] 
-    [<a href="https://ryanhangzhou.github.io/pics/">Project page</a>]
+    [<a href="/pics/">Project page</a>]
   </div>
 </div>
 
