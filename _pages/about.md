@@ -31,7 +31,7 @@ p1 span { font-variant: small-caps}
     <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/">Li Cheng</a>, 
     <em>PICS: Pairwise Image Compositing with Spatial Interactions</em>, 
     ICLR, 2026
-    [arXiv] 
+    [<a href="https://openreview.net/pdf?id=zNCNEOhKps">arXiv</a>] 
     [<a href="https://github.com/RyanHangZhou/PICS">GitHub</a>] 
     [<a href="/pics/">Project page</a>]
   </div>
@@ -240,7 +240,7 @@ Conference Reviewer:
 ICLR'20, CVPR'21, NeurIPS'21, IJCAI'21, AAAI'21, ICLR'21, CVPR'22, NeurIPS'22, ICML'22, AAAI'22, IJCAI'22, ECCV'22, ICLR'22, IJCAI'23, ICLR'23, CVPR'23, ICML'23, ICCV'23, NeurIPS'23, ICLR'24, CVPR'24, ECCV'24, NeurIPS'24, CVPR'25, SIGGRAPH'25, ICCV'25, SIGA'25, 3DV'26, ICLR'26, SIGGRAPH'26
 
 Journal Reviewer: 
-TOG, TPAMI, TVCG, TIP, TIFS, TMM, TCSVT, TASLP
+TOG, TPAMI, TVCG, TIP, TIFS, CFG, TMM, TCSVT, TASLP
 
 
 <!-- Example: editing a markdown file for a talk
