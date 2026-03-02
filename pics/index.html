@@ -2,25 +2,20 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
-  <!-- Replace the content tag with appropriate information -->
-  <meta name="description" content="DESCRIPTION META TAG">
-  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
-  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
-  <meta property="og:url" content="URL OF THE WEBSITE"/>
-  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
-  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta name="description" content="PICS: Pairwise Image Compositing with Spatial Interactions. A self-supervised paradigm for coherent object composition.">
+  <meta property="og:title" content="PICS: Pairwise Image Compositing with Spatial Interactions"/>
+  <meta property="og:description" content="Modeling compositional interactions among objects and background with Interaction Transformer."/>
+  <meta property="og:url" content="https://ryanhangzhou.github.io/pics/"/>
+  <meta property="og:image" content="static/images/teaser.png" />
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
 
 
-  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
-  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
-  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
-  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:title" content="PICS: Pairwise Image Compositing with Spatial Interactions">
+  <meta name="twitter:description" content="Modeling compositional interactions among objects and background with Interaction Transformer.">
+  <meta name="twitter:image" content="static/images/teaser.png">
   <meta name="twitter:card" content="summary_large_image">
-  <!-- Keywords for your paper to be indexed by-->
-  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="keywords" content="Image Compositing, Generative AI, Diffusion Models, Spatial Interactions, Interaction Transformer">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
@@ -47,53 +42,76 @@
 <body>
 
 
-  <section class="hero">
-    <div class="hero-body">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered">
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">PICS: Pairwise Image Compositing with Spatial Interactions</h1>
+          
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://ryanhangzhou.github.io/" target="_blank">Hang Zhou</a><sup>♣</sup>&emsp;
+            </span>
+            <span class="author-block">
+              <a href="https://sites.google.com/site/xinxinzuohome/" target="_blank">Xinxin Zuo</a><sup>♢</sup>&emsp;
+            </span>
+            <span class="author-block">
+              <a href="https://sites.google.com/site/senwang1312home/home?authuser=0" target="_blank">Sen Wang</a><sup>♢</sup>&emsp;
+            </span>
+            <span class="author-block">
+              <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/" target="_blank">Li Cheng</a><sup>♣</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>♣</sup>University of Alberta&emsp;</span>
+            <span class="author-block"><sup>♢</sup>Concordia University</span>
+            <br>
+            <span class="is-size-8" style="color: #5a5a5a;">ICLR 2026</span>
+          </div>
+
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">PICS: Pairwise Image Compositing with Spatial Interactions</h1>
-            <div class="is-size-5 publication-authors">
-              <!-- Paper authors -->
-              <span class="author-block">
-                <a href="https://ryanhangzhou.github.io/" target="_blank">Hang Zhou</a><sup>1</sup>&emsp;</span>
-                <span class="author-block">
-                  <a href="https://sites.google.com/site/xinxinzuohome/" target="_blank">Xinxin Zuo</a><sup>2</sup>&emsp;</span>
-                  <span class="author-block">
-                    <a href="https://sites.google.com/site/senwang1312home/home?authuser=0" target="_blank">Sen Wang</a><sup>2</sup>&emsp;</span>
-                    <span class="author-block">
-                    <a href="https://vision-and-learning-lab-ualberta.github.io/author/li-cheng/" target="_blank">Li Cheng</a><sup>1</sup>
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://ryanhangzhou.github.io/pics/" target="_blank"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
                   </span>
-                  </div>
+                  <span>arXiv</span>
+                </a>
+              </span>
 
-                  <div class="is-size-5 publication-authors">
-                    <span class="author-block">University of Alberta&emsp; Concordia University<br>ICLR26</span>
-                  </div>
+              <span class="link-block">
+                <a href="https://github.com/RyanHangZhou/PICS" target="_blank"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                </a>
+              </span>
 
-                  <div class="column has-text-centered">
-                    <div class="publication-links">
+              <span class="link-block">
+                <a href="https://huggingface.co/spaces/RyanHangZhou/PICS" target="_blank"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <span>🤗</span>
+                  </span>
+                  <span>Demo</span>
+                </a>
+              </span>
 
-                  <!-- ArXiv abstract Link -->
-                  <span class="link-block">
-                    <a href="https://ryanhangzhou.github.io/pics/" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="ai ai-arxiv"></i>
-                    </span>
-                    <span>arXiv</span>
-                  </a>
-                </span>
-
-                  <!-- Github link -->
-                  <span class="link-block">
-                    <a href="https://github.com/RyanHangZhou/PICS" target="_blank"
-                    class="external-link button is-normal is-rounded is-dark">
-                    <span class="icon">
-                      <i class="fab fa-github"></i>
-                    </span>
-                    <span>Code</span>
-                  </a>
-                </span>
+              <span class="link-block">
+                <a href="https://huggingface.co/RyanHangZhou/PICS" target="_blank"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-database"></i>
+                  </span>
+                  <span>Models</span>
+                </a>
+              </span>
             </div>
           </div>
         </div>
@@ -131,7 +149,7 @@
   </div>
 </div>
 </section> -->
-<section class="hero is-small">
+<!-- <section class="hero is-small">
   <div style="margin-top: -40px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 25%; margin-bottom: 1rem;">
     <div class="text-center">
       <img src="static/images/teaser.png" width="100%" class="center">
@@ -141,13 +159,28 @@
         Our method generates spatially plausible and visually realistic pairwise compositions. Each row illustrates two examples, consisting of (from left to right) the objects, the masked background, and two exemplar composite results. 
       </p>
     </div>
+  </div> -->
+
+<!-- <section class="hero is-small">
+  <div style="margin-top: -40px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 5%; margin-bottom: 1rem;">
+    
+    <div class="text-center" style="max-width: 1000px; width: 100%;">
+      <img src="static/images/teaser.png" width="100%" class="center">
+    </div>
+
+    <div style="margin-top: 10px; text-align: left; max-width: 800px;">
+      <p>
+        Our method generates spatially plausible and visually realistic pairwise compositions. Each row illustrates two examples, consisting of (from left to right) the objects, the masked background, and two exemplar composite results. 
+      </p>
+    </div>
   </div>
+</section>
 
   <div class="columns is-centered" style="margin-top: 0rem; margin-bottom: 0rem;">
     <div class="column is-four-fifths">
       
       <div class="text-center" style="margin-bottom: 1rem;">
-        <img src="static/images/visual_comparison.png" style="width: 85%; display: block; margin: 0 auto;">
+        <img src="static/images/visual_comparison.jpg" style="width: 85%; display: block; margin: 0 auto;">
       </div>
       
       <div class="content has-text-justified" style="padding: 0 3rem;">
@@ -158,9 +191,44 @@
 
     </div>
   </div>
-</section>
-<!-- End teaser -->
+</section> -->
 
+<section class="hero is-small">
+  <div class="container is-max-desktop">
+    <div style="margin-top: -20px; display: flex; flex-direction: column; align-items: center; padding: 0 2rem;">
+      
+      <div style="width: 100%; margin-bottom: 1rem;">
+        <img src="static/images/teaser.png" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+      </div>
+
+      <div style="max-width: 900px; text-align: left;">
+        <p class="is-size-6">
+          <span class="has-text-weight-bold">Teaser results.</span> Our method generates spatially plausible and visually realistic pairwise compositions. Each row illustrates two examples, consisting of (from left to right) the objects, the masked background, and two exemplar composite results. 
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        
+        <div style="margin-bottom: 1.5rem;">
+          <img src="static/images/visual_comparison.jpg" style="width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 5px;">
+        </div>
+        
+        <div class="content has-text-justified">
+          <p class="is-size-6" style="padding: 0 1rem;">
+            <span class="has-text-weight-bold">Visual comparison</span> of pairwise support relations. We compare against baselines including Paint-by-Paint, ControlCom, ObjectStitch, AnyDoor, FreeCompose, OmniPaint, and InsertAnything. Unlike prior methods that suffer from contact artifacts and fidelity loss, our approach performs parallel compositing and yields consistent results with preserved structure.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <!-- Paper abstract -->
@@ -173,7 +241,7 @@
           <p>
             Despite strong single-turn performance, diffusion-based image compositing often struggles to preserve coherent spatial relations in pairwise or sequential edits, where subsequent insertions may overwrite previously generated content and disrupt physical consistency. 
             We introduce PICS, a self-supervised composition-by-decomposition paradigm that composes objects in parallel while explicitly modeling the compositional interactions among (fully-/partially-)visible objects and background.
-            At its core, an Interaction Transformer employs mask-guided Mixture-of-Experts to route background, exclusive, and overlap regions to dedicated experts, with an adaptive $\alpha$-blending strategy that infers a compatibility-aware fusion of overlapping objects while preserving boundary fidelity.
+            At its core, an Interaction Transformer employs mask-guided Mixture-of-Experts to route background, exclusive, and overlap regions to dedicated experts, with an adaptive α-blending strategy that infers a compatibility-aware fusion of overlapping objects while preserving boundary fidelity.
             To further enhance robustness to geometric variations, we incorporate geometry-aware augmentations covering both out-of-plane and in-plane pose changes of objects. 
             Our method delivers superior pairwise compositing quality and substantially improved stability, with extensive evaluations across virtual try-on, indoor, and street scene settings showing consistent gains over state-of-the-art baselines. 
           </p>
